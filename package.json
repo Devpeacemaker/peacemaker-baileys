@@ -1,11 +1,11 @@
 {
-    "name": "@makamesco/baileys",
-    "version": "1.0.0",
+    "name": "@peacemaker/baileys",
+    "version": "2.0.0",
     "description": "A lightweight, full-featured WhatsApp Web API library for Node.js",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "homepage": "https://baileys-dun.vercel.app/",
-    "author": "makamesco",
+    "author": "peacemaker",
     "license": "MIT",
     "scripts": {
         "build": "echo 'No build step required for direct lib edits'",
