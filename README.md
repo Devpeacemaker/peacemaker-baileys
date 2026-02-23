@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Gifted-Baileys</h1>
+  <h1>PEACEMAKER-BAILEYS</h1>
   <p>A WebSocket-based JavaScript library for interacting with the WhatsApp Web API</p>
   
-  [![npm version](https://img.shields.io/npm/v/gifted-baileys.svg)](https://www.npmjs.com/package/gifted-baileys)
-  [![npm downloads](https://img.shields.io/npm/dm/gifted-baileys.svg)](https://www.npmjs.com/package/gifted-baileys)
-  [![License](https://img.shields.io/npm/l/gifted-baileys.svg)](https://github.com/mauricegift/gifted-baileys/blob/main/LICENSE)
+  [![npm version](https://img.shields.io/npm/v/peacemaker-baileys.svg)](https://www.npmjs.com/package/peacemaker-baileys)
+  [![npm downloads](https://img.shields.io/npm/dm/peacemaker-baileys.svg)](https://www.npmjs.com/package/peacemaker-baileys)
+  [![License](https://img.shields.io/npm/l/peacemaker-baileys.svg)](https://github.com/Devpeacemaker/peacemaker-baileys/blob/main/LICENSE)
 </div>
 
 ## Disclaimer
@@ -26,12 +26,12 @@ yarn add gifted-baileys
 
 ### CommonJS (Recommended)
 ```javascript
-const { default: makeWASocket, useMultiFileAuthState, Browsers } = require('gifted-baileys')
+const { default: makeWASocket, useMultiFileAuthState, Browsers } = require('peacemaker-baileys')
 ```
 
 ### ES Modules / TypeScript
 ```javascript
-import pkg from 'gifted-baileys'
+import pkg from 'peacemaker-baileys'
 const { default: makeWASocket, useMultiFileAuthState, Browsers } = pkg
 ```
 
@@ -47,10 +47,4 @@ const { default: makeWASocket, useMultiFileAuthState, Browsers } = pkg
 - Privacy settings
 - Profile management
 - And much more!
-
-> **Note:** For sending buttons, please use the [gifted-btns](https://npmjs.com/package/gifted-btns) package.
-
-## Documentation
-
-Full documentation is available at [baileys.giftedtech.co.ke](https://baileys.giftedtech.co.ke)
 
