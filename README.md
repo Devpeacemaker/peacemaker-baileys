@@ -1,11 +1,6 @@
 <div align="center">
   <h1>PEACEMAKER-BAILEYS</h1>
-  <p>A WebSocket-based JavaScript library for interacting with the WhatsApp Web API</p>
   
-  [![npm version](https://img.shields.io/npm/v/peacemaker-baileys.svg)](https://www.npmjs.com/package/peacemaker-baileys)
-  [![npm downloads](https://img.shields.io/npm/dm/peacemaker-baileys.svg)](https://www.npmjs.com/package/peacemaker-baileys)
-  [![License](https://img.shields.io/npm/l/peacemaker-baileys.svg)](https://github.com/Devpeacemaker/peacemaker-baileys/blob/main/LICENSE)
-</div>
 
 ## Disclaimer
 
@@ -14,12 +9,12 @@ This project is not affiliated, associated, authorized, endorsed by, or in any w
 ## Installation
 
 ```bash
-npm install gifted-baileys
+npm install peacemaker-baileys
 ```
 
 Or using yarn:
 ```bash
-yarn add gifted-baileys
+yarn add peacemaker-baileys
 ```
 
 ## Quick Start
